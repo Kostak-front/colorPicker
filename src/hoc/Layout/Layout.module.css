@@ -1,0 +1,13 @@
+.Layout {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    background: linear-gradient(41deg, rgba(230,93,10,1) 0%, rgba(121,9,95,1) 54%, rgba(0,149,255,1) 100%);
+}
+
+.Layout main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex-grow: 1;
+}
